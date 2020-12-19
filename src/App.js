@@ -43,7 +43,7 @@ function App() {
 
          </form>
        </section> 
-  <h4 style={{ marginLeft: '35px'}}>Input a valid hex color to copy various color gradient when you click on the color squares</h4>
+  <h4 style={{ marginLeft: '35px'}}>Please Input a valid hex-color to copy various color gradient by clicking on the color squares</h4>
        <section className="colors">
          {list.map((color, index) => {
 
